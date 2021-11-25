@@ -1,0 +1,25 @@
+{
+  "name": "circleciandactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kragada/CircleCIandActions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kragada/CircleCIandActions/issues"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "homepage": "https://github.com/Kragada/CircleCIandActions#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
